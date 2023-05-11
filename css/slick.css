@@ -130,8 +130,8 @@
 
     display: block;
 
-    width: 25px;
-    height: 25px;
+    width: 30px;
+    height: 30px;
     padding: 0;
     -webkit-transform: translate(0, -50%);
     -ms-transform: translate(0, -50%);
@@ -189,9 +189,9 @@
 
     display: inline-block;
 
-    width: 5px;
-    height: 5px;
-    margin: 0 8px;
+    width: 10px;
+    height: 10px;
+    margin: 0 5px;
     padding: 0;
 
     cursor: pointer;
@@ -202,8 +202,8 @@
 
     display: block;
 
-    width: 20px;
-    height: 20px;
+    width: 10px;
+    height: 10px;
     padding: 5px;
 
     cursor: pointer;
@@ -231,8 +231,8 @@
     top: 0;
     left: 0;
 
-    width: 12px;
-    height: 12px;
+    width: 10px;
+    height: 10px;
 
     content: '';
 
