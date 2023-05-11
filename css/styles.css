@@ -66,13 +66,6 @@ a:hover {
   line-height: 2.5;
 }
 
-.index .bread-crumbs {
-  opacity: 0;
-  margin: 0;
-  height: 0;
-  position: absolute;
-  z-index: -1;
-}
 /*標題*/
 .page-title .main {
   font-family: 'CormorantInfant-Regular', 'Lato-Regular';
@@ -232,7 +225,7 @@ footer .title {
   font-size: 16px;
   margin-bottom: 18px;
   font-weight: bold;
-  letter-spacing: 0.2rem;
+  letter-spacing: 3px;
 }
 
 .footer a {
@@ -430,7 +423,7 @@ footer .title {
 
   .wsmenu>.wsmenu-list>li>a {
     padding: 16px;
-    font-size: .7rem;
+    font-size: 16px;
     text-align: center;
     color: #3f3f4d;
     border-bottom: 1px solid;
