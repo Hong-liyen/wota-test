@@ -66,6 +66,21 @@ a:hover {
   line-height: 2.5;
 }
 
+.index .bread-crumbs {
+  opacity: 0;
+  margin: 0;
+  height: 0;
+  position: absolute;
+  z-index: -1;
+}
+.bread-crumbs ol {
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  margin: 10px 0;
+  padding: 0;
+}
 /*標題*/
 .page-title .main {
   font-family: 'CormorantInfant-Regular', 'Lato-Regular';
